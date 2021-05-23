@@ -238,7 +238,7 @@ else:
    st.write(afm)
 
 st.write("""# About Us
-*Placeholder*
+We’re four Gr.12 students pursuing Engineering in post-secondary next year. We were interested in 2021’s admissions and how greatly they were impacted due to COVID-19. We decided to create a webapp for data in regards to admission information at the University of Waterloo. We also implemented an acceptance predictor utilising machine learning to predict the chances of admission into one the most competitive program this year, Computer Science. 
 """)
 
 
